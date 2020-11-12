@@ -1,0 +1,66 @@
+body{
+    background-color: #2f2e2e;
+}
+header {
+    background: black;
+    padding: 30px;
+}
+.caixaheader{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 30px;
+}
+nav a {
+    color: blanchedalmond;
+    text-decoration:none ;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+main{
+    margin: 0 auto;
+    padding: 5px 10px;
+    background: yellow;
+
+}
+form{
+    width: 400px;
+    margin: 33% 33%;
+
+}
+form label{
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+    width: 33%;
+}
+form input{
+    text-align: center;
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 33%;
+
+}
+footer {
+    background: black;
+    margin: 0 0 0 0;
+    padding: 30px;
+    color:blanchedalmond;
+    text-align: center;
+    bottom: 0;
+}
+
+.copyright {
+    
+}
